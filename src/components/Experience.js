@@ -2,7 +2,7 @@ import React from "react";
 import Card from "./Card";
 
 const Experience = () => (
-  <section id="experience" className="my-12 max-w-6xl mx-auto px-4">
+  <section id="Experience" className="my-12 max-w-6xl mx-auto px-4">
     <h2 className="text-2xl font-bold mb-6">Experience</h2>
 
     <div className="grid gap-6">

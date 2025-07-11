@@ -8,18 +8,21 @@ import Contact from "./components/Contact";
 
 export default function App() {
   return (
-   <div id="header" className="min-h-screen bg-gradient-to-b from-slate-900 via-slate-900 to-slate-800 text-white">
+   <div id="header" className="min-h-screen bg-white text-black">
   <Navbar />
 
   {/* Header Section */}
   <header className="text-center mt-20 mb-10 px-4 sm:px-6 md:px-8">
     <h1 className="text-3xl sm:text-4xl font-bold">Pankaj Kumar</h1>
     <p className="text-base sm:text-lg mt-2">
-      Senior Software Developer - Java | Spring Boot | DevOps | Cloud
+      <p>
+        Senior Software Engineer | Backend Developer
+      </p>
+      Java | Spring Boot | Microservices | DevOps | Cloud
     </p>
     <a
       href="/PankajKumar.pdf"
-      className="mt-4 inline-block bg-slate-700 hover:bg-slate-600 text-white font-semibold py-2 px-4 rounded"
+      className="mt-4 inline-block bg-white hover:bg-cyan-600 text-black font-semibold py-2 px-4 rounded"
       download
     >
       Download Resume

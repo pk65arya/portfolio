@@ -39,17 +39,17 @@ const Projects = () => {
   ];
 
   return (
-    <section id="projects" className="my-12 max-w-6xl mx-auto px-4">
+    <section id="Projects" className="my-12 max-w-6xl mx-auto px-4">
       <h2 className="text-2xl font-bold mb-6">Projects</h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         {projects.map((project, index) => (
           <Card key={index} title={project.title}>
-            <p className="mb-2">{project.description}</p>
+            <p className="mb-2 text-sm">{project.description}</p>
             <div className="flex justify-between items-center text-sm text-slate-400">
               <span
                 className={`px-2 py-1 rounded-full text-xs font-semibold ${
                   project.type === "Professional"
-                    ? "bg-amber-800 text-yellow-300"
+                    ? "bg-slate-800 text-white"
                     : "bg-sky-800 text-sky-300"
                 }`}
               >

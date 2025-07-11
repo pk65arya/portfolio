@@ -5,5 +5,5 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  @apply bg-slate-900 text-white;
+  @apply bg-white text-black;
 }
