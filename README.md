@@ -1,4 +1,4 @@
-# 💼 Pankaj Upadhyay — Developer Portfolio
+# 💼 Pankaj Kumar — Developer Portfolio
 
 This is my personal developer portfolio built using **React** and **Tailwind CSS**, showcasing my experience, skills, and featured projects. It includes smooth scroll, animated sections, responsive design, and a contact form integrated with EmailJS.
 
