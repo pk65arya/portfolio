@@ -18,7 +18,7 @@ export default function App() {
       Senior Software Developer - Java | Spring Boot | DevOps | Cloud
     </p>
     <a
-      href="/resume.pdf"
+      href="/PankajKumar.pdf"
       className="mt-4 inline-block bg-slate-700 hover:bg-slate-600 text-white font-semibold py-2 px-4 rounded"
       download
     >
