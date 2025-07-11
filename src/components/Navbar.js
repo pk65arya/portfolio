@@ -31,7 +31,7 @@ const Navbar = () => {
           Pankaj Kumar
         </div>
         <div className="hidden md:flex space-x-6 text-white">
-          {["about", "skills", "projects", "experience", "contact"].map((section) => (
+          {["About", "Experience", "Skills", "Projetcs", "Contact"].map((section) => (
             <button
               key={section}
               onClick={() => scrollToSection(section)}

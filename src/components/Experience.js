@@ -6,7 +6,15 @@ const Experience = () => (
     <h2 className="text-2xl font-bold mb-6">Experience</h2>
 
     <div className="grid gap-6">
-      <Card title="Senior Software Engineer" subtitle="Jio Platforms Limited" date="April 2020 – Present">
+         <Card title="Senior Software Engineer" subtitle="Unifocus" date="March 2025 – Present">
+        <ul className="list-disc pl-5 space-y-2 text-sm">
+          <li>Leading development of scalable Java backend systems using Spring Boot, Hibernate, and REST APIs.</li>
+          <li>Designed and deployed microservices improving report generation and CRUD operations.</li>
+          <li>Implemented robust security and integrated with databases using JPA/Hibernate.</li>
+          <li>Mentored junior developers and enforced clean coding standards.</li>
+        </ul>
+      </Card>
+      <Card title="Senior Software Engineer" subtitle="Jio Platforms Limited" date="April 2020 – March 2025">
         <ul className="list-disc pl-5 space-y-2 text-sm">
           <li>Leading development of scalable Java backend systems using Spring Boot, Hibernate, and REST APIs.</li>
           <li>Designed and deployed microservices improving report generation and CRUD operations.</li>

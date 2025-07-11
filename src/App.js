@@ -29,9 +29,9 @@ export default function App() {
   {/* Main Sections */}
   <main className="px-4 sm:px-6 md:px-8 space-y-10">
     <About />
-    <Skills />
-    <Projects />
     <Experience />
+     <Skills />
+    <Projects />
     <Contact />
   </main>
 </div>

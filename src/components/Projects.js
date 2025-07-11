@@ -33,8 +33,8 @@ const Projects = () => {
       description:
         "Built a fully responsive React + Tailwind portfolio showcasing skills, projects, experience, and contact form integration.",
       type: "Personal",
-      github: "https://github.com/pankajupadhyay/portfolio",
-      demo: "https://your-deployed-portfolio-link.com",
+      github: "https://github.com/pankum-ibm/portfolio",
+      demo: "https://impku-ibm.github.io/pankaj-portfolio/",
     },
   ];
 
@@ -69,7 +69,7 @@ const Projects = () => {
                 )}
                 {project.demo && (
                   <a
-                    href={project.demo}
+                    href={ project.demo}
                     className="text-green-400 hover:underline inline-flex items-center gap-1"
                     target="_blank"
                     rel="noopener noreferrer"
