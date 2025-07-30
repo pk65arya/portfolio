@@ -1,4 +1,4 @@
-# 💼 Pankaj Kumar — Developer Portfolio
+# 💼 Pradeep Kumar Upadhyay — Developer Portfolio
 
 This is my personal developer portfolio built using **React** and **Tailwind CSS**, showcasing my experience, skills, and featured projects. It includes smooth scroll, animated sections, responsive design, and a contact form integrated with EmailJS.
 
@@ -15,14 +15,14 @@ This is my personal developer portfolio built using **React** and **Tailwind CSS
 To run this project locally:
 
 ```bash
-git clone https://github.com/yourusername/pradeep-portfolio.git
+git clone https://github.com/yourusername/portfolio.git
 cd pradeep-portfolio
 npm install
 npm start
 
 
 🌐 Live Demo
-https://impku-ibm.github.io/pradeep-portfolio
+https://pk65arya.github.io/portfolio
 
 📄 Resume
 Download Resume
