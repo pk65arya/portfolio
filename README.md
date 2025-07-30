@@ -15,14 +15,14 @@ This is my personal developer portfolio built using **React** and **Tailwind CSS
 To run this project locally:
 
 ```bash
-git clone https://github.com/yourusername/pankaj-portfolio.git
-cd pankaj-portfolio
+git clone https://github.com/yourusername/pradeep-portfolio.git
+cd pradeep-portfolio
 npm install
 npm start
 
 
 🌐 Live Demo
-https://impku-ibm.github.io/pankaj-portfolio
+https://impku-ibm.github.io/pradeep-portfolio
 
 📄 Resume
 Download Resume
@@ -30,3 +30,4 @@ Download Resume
 📬 Contact
 Feel free to reach out via LinkedIn or Email.
 
+```

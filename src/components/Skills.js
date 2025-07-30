@@ -10,6 +10,18 @@ const Skills = () => (
         <li>Spring Boot</li>
         <li>Hibernate</li>
         <li>REST APIs</li>
+        <li>JavaScript</li>
+        <li>React</li>
+        <li>HTML/CSS</li>
+        <li>Tailwind CSS</li>
+        <li>TypeScript</li>
+        <li>Node.js</li>
+        <li>Express.js</li>
+        <li>MongoDB</li>
+        <li>MySQL</li>
+        <li>JUnit</li>
+        <li>Mockito</li>
+      
         <li>Docker</li>
         <li>Jenkins</li>
         <li>PostgreSQL</li>

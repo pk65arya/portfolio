@@ -5,18 +5,18 @@ import { ExternalLink } from "lucide-react";
 const Projects = () => {
   const projects = [
     {
-      title: "Asset Management System",
+      title: "Automatic payout system",
       description:
-        "Designed and built RESTful APIs and microservices using Spring Boot to manage asset categories, placement, and audit reports.",
-      type: "Professional",
+        "Designed and implemented a Spring Boot application to automate payouts for 1000+ users, reducing manual effort by 90%.",
+      type: "Personal",
       github: null,
       demo: null,
     },
     {
-      title: "Checklist Recommendation Engine",
+      title: "Personal Finance Tracker",
       description:
-        "Developed a Spring Boot app with in-memory logic to recommend asset categories and locations based on master data.",
-      type: "Professional",
+        "Developed a full-stack application using Html, js, and firebase to track expenses and income. Implemented user authentication and data visualization.",
+      type: "Personal",
       github: null,
       demo: null,
     },

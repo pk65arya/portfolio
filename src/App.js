@@ -13,15 +13,16 @@ export default function App() {
 
   {/* Header Section */}
   <header className="text-center mt-20 mb-10 px-4 sm:px-6 md:px-8">
-    <h1 className="text-3xl sm:text-4xl font-bold">Pankaj Kumar</h1>
+    <h1 className="text-3xl sm:text-4xl font-bold">Pradeep Kumar Upadhyay</h1>
     <p className="text-base sm:text-lg mt-2">
       <p>
-        Senior Software Engineer | Backend Developer
+         Software Engineer | Full Stack Developer
       </p>
-      Java | Spring Boot | Microservices | DevOps | Cloud
+      Java | Spring Boot | Microservices | DevOps | Cloud | 
+      React | Node.js | MongoDB | MySQL | Express.js 
     </p>
     <a
-      href="/PankajKumar.pdf"
+      href="/PradeepKumarUpadhyay.pdf"
       className="mt-4 inline-block bg-white hover:bg-cyan-600 text-black font-semibold py-2 px-4 rounded"
       download
     >

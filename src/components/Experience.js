@@ -6,29 +6,29 @@ const Experience = () => (
     <h2 className="text-2xl font-bold mb-6">Experience</h2>
 
     <div className="grid gap-6">
-         <Card title="Senior Software Engineer" subtitle="Unifocus" date="March 2025 – Present">
+         <Card title="MERN Stack Developer Trainee" subtitle="Masai School" date="February 2025 – Present">
         <ul className="list-disc pl-5 space-y-2 text-sm">
-          <li>Leading development of scalable Java backend systems using Spring Boot, Hibernate, and REST APIs.</li>
-          <li>Designed and deployed microservices improving report generation and CRUD operations.</li>
-          <li>Implemented robust security and integrated with databases using JPA/Hibernate.</li>
-          <li>Mentored junior developers and enforced clean coding standards.</li>
+          <li>Developing full-stack applications using the MERN stack (MongoDB, Express.js, React, Node.js).</li>
+          <li>Collaborating with cross-functional teams to define and implement new features.</li>
+          <li>Participating in code reviews and contributing to team knowledge sharing.</li>
+          <li>Documenting development processes and creating user guides for new features.</li>
         </ul>
       </Card>
-      <Card title="Senior Software Engineer" subtitle="Jio Platforms Limited" date="April 2020 – March 2025">
+      <Card title="Junior Software Engineer" subtitle="VCS Lucknow" date="January 2024 – November 2024">
         <ul className="list-disc pl-5 space-y-2 text-sm">
           <li>Leading development of scalable Java backend systems using Spring Boot, Hibernate, and REST APIs.</li>
-          <li>Designed and deployed microservices improving report generation and CRUD operations.</li>
+          <li>Designed and deployed report generation and CRUD operations.</li>
           <li>Implemented robust security and integrated with databases using JPA/Hibernate.</li>
-          <li>Mentored junior developers and enforced clean coding standards.</li>
+          <li>Mentored junior interns and enforced clean coding standards.</li>
         </ul>
       </Card>
 
-      <Card title="Associate System Engineer" subtitle="IBM India Pvt. Ltd." date="June 2018 – April 2020">
+      <Card title="Intern at BridgLabz" subtitle="BridgeLabz Pvt. Ltd." date="June 2023 – November 2023">
         <ul className="list-disc pl-5 space-y-2 text-sm">
-          <li>Worked closely with stakeholders to gather and translate requirements into production-ready APIs.</li>
-          <li>Contributed to multiple large-scale system implementations, increasing team productivity.</li>
-          <li>Utilized Oracle, Spring Boot, and Apache POI for backend integration and automation.</li>
-          <li>Resolved legacy system issues, improved test coverage, and maintained technical documentation.</li>
+          <li>Assisted in the development of a web application using Java and JavaScript.</li>
+          <li>Collaborated with cross-functional teams to define and implement new features.</li>
+          <li>Participated in code reviews and contributed to team knowledge sharing.</li>
+          <li>Documented development processes and created user guides for new features.</li>
         </ul>
       </Card>
     </div>

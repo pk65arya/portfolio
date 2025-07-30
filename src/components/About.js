@@ -6,10 +6,7 @@ const About = () => (
     <SectionCard>
       <h2 className="text-2xl font-bold mb-4">About Me</h2>
       <p className="mb-2 text-sm">
-        I'm a Software Developer with over 7 years of experience, currently
-        working with Java, Spring Boot, and DevOps tools. I graduated from NIT
-        Agartala and am passionate about clean code, automation, and building
-        scalable backend systems.
+       I am a Software Engineer with a passion for developing innovative solutions that improve user experiences. I have a strong background in full-stack development, with expertise in Java, Spring Boot, React and Node.js.
       </p>
       <p className="text-sm">
         I enjoy working in fast-paced environments where I can help drive system

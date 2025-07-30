@@ -35,30 +35,30 @@ const Contact = () => {
         <div className="flex-1 space-y-6 text-lg">
           <div className="flex items-center gap-3">
             <FaEnvelope className="text-red-400 text-xl" />
-            <a href="mailto:pankaju713@gmail.com" className="hover:underline">
-              pankaju713@gmail.com
+            <a href="mailto:pk65arya@gmail.com" className="hover:underline">
+              pk65arya@gmail.com
             </a>
           </div>
           <div className="flex items-center gap-3">
             <FaGithub className="text-black-700 text-xl" />
             <a
-              href="https://github.com/impku-ibm"
+              href="https://github.com/pk65arya"
               className="hover:underline"
               target="_blank"
               rel="noopener noreferrer"
             >
-              github.com/impku-ibm
+              github.com/pk65arya
             </a>
           </div>
           <div className="flex items-center gap-3">
             <FaLinkedin className="text-blue-500 text-xl" />
             <a
-              href="https://linkedin.com/in/pankaj-kumar-33a98519b"
+              href="https://linkedin.com/in/pradeep-kumar-upadhyay-827320217/"
               className="hover:underline"
               target="_blank"
               rel="noopener noreferrer"
             >
-              linkedin.com/in/pankaj-kumar-33a98519b
+              linkedin.com/in/pradeep-kumar-upadhyay-827320217/
             </a>
           </div>
         </div>
