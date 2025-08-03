@@ -22,7 +22,7 @@ export default function App() {
       React | Node.js | MongoDB | MySQL | Express.js 
     </p>
     <a
-      href="/PradeepKumarUpadhyay.pdf"
+      href="Pradeepkumar.pdf"
       className="mt-4 inline-block bg-white hover:bg-cyan-600 text-black font-semibold py-2 px-4 rounded"
       download
     >
